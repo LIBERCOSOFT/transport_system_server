@@ -47,7 +47,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://budget-app-production-3559.up.railway.app/)
+[Live Demo Link](https://transport-system-backedn.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,13 +78,13 @@ To setup and install this sample ROR Blog project, follow the below steps:
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/LIBERCOSOFT/transport_system_client.git
+$ git clone https://github.com/LIBERCOSOFT/transport_system_server.git
 ```
 
 - Then switch to the project folder by the below query:
 
 ```
-$ cd transport_system_client
+$ cd transport_system_server
 ```
 
 - Install npm dependencies with the command below:
@@ -92,7 +92,7 @@ $ cd transport_system_client
 $ npm install
 ```
 
-- Start the ExpressJS server with the command below:
+- Start the development server with the command below:
 ```
 $ npm run server
 ```
